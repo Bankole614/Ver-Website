@@ -4,7 +4,7 @@ import MercyCorps from './assets/Mercy.jpg'
 import Unicef from './assets/Group.jpg'
 import Intersos from './assets/intersos.jpg'
 import Inso from './assets/inso.jpg'
-import Nrc from './assets/NRC.jpg'
+import Nrc from './assets/nrc.jpg'
 import Unfpa from './assets/unfpa.jpg'
 
 const HeroSection = () => {
