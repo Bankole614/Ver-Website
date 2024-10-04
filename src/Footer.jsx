@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
       <div className='bg-emerald-700 py-16'>
       <div className='container'>
-        <div className='grid grid-cols-6 gap-4'>
+        <div className='grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-5 items-center justify-between'>
           <div className='text-slate-200'>
             <h1 className='text-2xl font-bold mb-2'>Ver</h1>
             <p className='text-sm'>Built on Trust. Ver is All About Creating A trusted Community Where People Help Each Other.</p>
@@ -26,7 +26,7 @@ const Footer = () => {
               <li>Contact Us</li>
               <li>Our Services</li>
               <li className='font-bold text-sm'>Address</li>
-              <li className='w-[150px]'>No 10, South Gate Estate, Old GRA, Maiduguri, Borno</li>
+              <li className='w-[150px] max-w-full'>No 10, South Gate Estate, Old GRA, Maiduguri, Borno</li>
             </ul>
           </div>
           <div className='text-slate-200'>
